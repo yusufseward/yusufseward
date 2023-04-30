@@ -5,12 +5,18 @@ I'm a 17-year-old full-stack software developer and drone pilot, specializing in
 ## Skills
 
 - Web Development: **React** | **React Native** | **JavaScript** _(3 years of experience)_
-- Robotics & Embedded Systems: **C++** | **Rust** (currently learning)
+- Drone Flying: **2nd in Illinois in 2020 for drone racing** | **Freelance Drone Pilot** _(from 2020-2022)_
+- Robotics & Embedded Systems: **C++** | **Rust** _(currently learning)_
+- ML & AI: **PyTorch** | **TensorFlow** _(less familiar with than pytorch)_
+- Data Science: **Python** | **Jupyter** | **Anaconda**
 
 ## Experience
 
 - CTO & Co-founder of **[Skyello](https://skyello.com)**: A drone startup focusing on making drones more versatile.
-- Co-founder of **[Uncorp](https://uncorp.ai)**: AI for every facet of life.
+- Co-founder of **[Uncorp](https://uncorp.one)**: AI for every facet of life.
+- Innovation Educator at **[The Hidden Genius Project](https://www.hiddengeniusproject.org/)**: An organization dedicated to traning young men in computer science and leadership.
+- Data Science Student at **University of Chicago**: 10-week internship for learning about data science. Completing two case studies on Cholera and the impact of COVID-19 in areas around Chicago.
+- FIRST Robotics Team 6023/14750: Represented my team(s) nationally and internationally as the lead programmer in FIRST robotics.
 
 ## Online Presence
 
@@ -23,6 +29,12 @@ I'm a 17-year-old full-stack software developer and drone pilot, specializing in
 - Reading about emerging technologies and innovations
 - Engaging in thought-provoking conversations and debates
 - Exploring new places and immersing in different cultures
+
+## Certifications
+
+- *IBM Full-Stack Developer Certification*
+- *Google Agile Methodology*
+- *IBM Design Thinking*
 
 ## Contact
 
