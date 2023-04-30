@@ -6,7 +6,7 @@ I'm a 17-year-old full-stack software developer and drone pilot, specializing in
 
 - Web Development: **React** | **React Native** | **JavaScript** _(3 years of experience)_
 - Drone Flying: **2nd in Illinois in 2020 for drone racing** | **Freelance Drone Pilot** _(from 2020-2022)_
-- Robotics & Embedded Systems: **C++** | **Rust** _(currently learning)_
+- Robotics & Embedded Systems: **C++** | **Rust** _(currently learning)_ | **Python** | **OpenCV**
 - ML & AI: **PyTorch** | **TensorFlow** _(less familiar with than pytorch)_
 - Data Science: **Python** | **Jupyter** | **Anaconda**
 
