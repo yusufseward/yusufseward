@@ -4,10 +4,10 @@ I'm a 17-year-old full-stack software developer and drone pilot, specializing in
 
 ## Skills
 
-- Web Development: **React** | **React Native** | **JavaScript** _(3 years of experience)_
+- Web Development: **React** | **React Native** | **JavaScript**
 - Drone Flying: **2nd in Illinois in 2020 for drone racing** | **Freelance Drone Pilot** _(from 2020-2022)_
 - Robotics & Embedded Systems: **C++** | **Rust** _(currently learning)_ | **Python** | **OpenCV**
-- ML & AI: **PyTorch** | **TensorFlow** _(less familiar with than pytorch)_
+- ML & AI: **PyTorch** | **TensorFlow**
 - Data Science: **Python** | **Jupyter** | **Anaconda**
 
 ## Experience
@@ -19,8 +19,6 @@ I'm a 17-year-old full-stack software developer and drone pilot, specializing in
 - FIRST Robotics Team 6023/14750: Represented my team(s) nationally and internationally as the lead programmer in FIRST robotics.
 
 ## Online Presence
-
-- **[Personal Website](https://yusufseward.com)**
 - **[LinkedIn](https://linkedin.com/in/yusufseward)**
 - **[Twitter](https://twitter.com/yusufseward)**
 
@@ -38,6 +36,6 @@ I'm a 17-year-old full-stack software developer and drone pilot, specializing in
 
 ## Contact
 
-Email: [yusuf@yusufseward.com](mailto:yusuf@yusufseward.com)\
-LinkedIn: [linkedin.com/in/yusufseward](https://linkedin.com/in/yusufseward)\
+Email: [yusufseward@gmail.com]
+LinkedIn: [linkedin.com/in/yusufseward](https://linkedin.com/in/yusufseward)
 Twitter: [twitter.com/yusufseward](https://twitter.com/yusufseward)
