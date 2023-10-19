@@ -13,7 +13,6 @@ I'm a 17-year-old full-stack software developer and drone pilot, specializing in
 ## Experience
 
 - CTO & Co-founder of **[Skyello](https://skyello.com)**: A drone startup focusing on making drones more versatile.
-- Co-founder of **[Uncorp](https://uncorp.one)**: AI for every facet of life.
 - Innovation Educator at **[The Hidden Genius Project](https://www.hiddengeniusproject.org/)**: An organization dedicated to traning young men in computer science and leadership.
 - Data Science Student at **University of Chicago**: 10-week internship for learning about data science. Completing two case studies on Cholera and the impact of COVID-19 in areas around Chicago.
 - FIRST Robotics Team 6023/14750: Represented my team(s) nationally and internationally as the lead programmer in FIRST robotics.
